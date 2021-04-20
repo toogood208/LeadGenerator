@@ -1,3 +1,8 @@
 # LeadGenerator
-this application generate Nigerian phone numbers for code calling
-i.e 0803-344-8976
+this is the back end code to my phone number generator app,
+you can view the code here
+
+## functionality
+It generate nigeria phone numbers for cold calling
+i.e 
+
